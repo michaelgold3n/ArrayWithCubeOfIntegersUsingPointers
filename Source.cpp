@@ -1,9 +1,3 @@
-/*HW Assignment_B.Green.cpp
-Bryce Green
-4/11/2021
-Version 1.5
-The program uses a pointer to dynamically allocate the size of a array that is given by the user and also allows input and cubes the outputted values*/
-
 #include <iostream>
 #include <cmath>
 using namespace std;
